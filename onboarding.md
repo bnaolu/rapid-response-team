@@ -9,7 +9,7 @@ permalink: /case-studies/onboarding/
 
 ## Overview
 
-The Human Centered Design team at Bixal was looking to hire at least 7 new designers at the time this project came to light. As recent hires, we also had a fresh perspective on the current onboarding process and wanted to improve upon it. Resources felt scattered, getting to know the team in a remote setting was increasingly difficult, and we often felt lost in the sauce of a new job. We took on this project to support the newest additions to the design team by making them feel welcome, cared about, and informed.
+The Human Centered Design team at Bixal had at least 7 open positions at the time this project came to light. As recent hires, we also had a fresh perspective on the current onboarding process and wanted to improve upon it. Resources felt scattered, getting to know the team in a remote setting was increasingly difficult, and we often felt lost in the sauce of a new job. We took on this project to support the newest additions to the design team by making them feel welcome, cared about, and informed.
 
 [View the Onboarding Experience](https://miro.com/app/board/o9J_lkmj560=/){: .usa-button}
 
@@ -21,19 +21,21 @@ At the start of this project, the design team was looking to hire seven new desi
 
 ## Solution
 
-Use an interactive tool, such as Miro, to create an onboarding experience for new hires. The onboarding experience includes:
+An interactive onboarding experience for new hires created in Miro. The onboarding experience includes:
 
 - A welcome message from their new team with a brief, written introduction from their new teammates.
-- A to-do list for managers and new hires including things like tech setup, PTO requests, channels to join in teams, meetings to have on the calendar, etc. The list is split up into 4 columns: to-do, in progress, done, and blocked. This type of interactive list encourages transparency and increased communication between the new hire and their manager.
-- A place for the new hire to create a personal moodboard and their own working manual (inspired by [Atlassian's]() user manual) to help inform the team of who they are in and out of work.
-- A list of helpful resources
+- A to-do list for managers and new hires including things like tech setup, PTO requests, channels to join in Teams, meetings to attend, etc. The list is split up into 4 columns: to-do, in progress, done, and blocked. This type of interactive list encourages transparency and increased communication between the new hire and their manager.
+- A place for the new hire to create a personal moodboard and their own working manual (inspired by [Atlassian's]() user manual) to help introduce the team to who they are in and out of work.
+- A list of helpful resources.
 - A space where the new hire can leave feedback on their onboarding experience as they're going through it or after they've completed it.
 
 ## Results
 
 [View the onboarding experience](){: .usa-button}.
 
-We are continuing to iterate on this experience as we receive feedback from each new hire that moves through the Miro board. The feedback has been extremely valuable so far and we're excited to continuously improve on the experience. We will continue to update the Miro board linked above. All new hires agree that the board made them feel welcome.
+We are continuing to iterate on this experience as we receive feedback from each new hire that moves through the Miro board. The feedback has been extremely valuable so far and we're excited to continuously improve on the experience. We will continue to update the Miro board linked above.
+
+All new hires thus far have agreed that the board made them feel welcome.
 
 If you have any questions or feedback, feel free to [contribute to the discussion]() in Github by creating a new issue.
 
@@ -44,6 +46,6 @@ We collaborated in Microsoft Teams and Github.
 
 ## Reflection
 
-Working on this project allowed us to portray the culture at Bixal. We had the opportunity to interview designers and managers on the Human Centered Design team to learn what worked for them, what didn't, and what they would hope to see in an onboarding experience. These conversations facilitated new relationships on the team and new opportunities to collaborate.
+Working on this project allowed us to portray the culture of Bixal. We had the opportunity to interview designers and managers on the Human Centered Design team to learn what worked for them, what didn't, and what they would hope to see in an onboarding experience. These conversations facilitated new relationships on the team and new opportunities to collaborate.
 
-So far, the feedback from new hires and managers has informed new iterations of the onboarding experience and plans to add more to it. It has benefitted multiple people and was an exciting project to be a part of.
+So far, the feedback from new hires and managers has informed new iterations of the onboarding experience and plans to add more to it. It has benefitted multiple people and is an exciting project to be a part of.
