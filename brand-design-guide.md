@@ -9,7 +9,7 @@ permalink: /case-studies/bixal-brand-guide/
 
 ## Overview
 
-Bixal's brand guide was transformed from a large PDF that was difficult to access and maintain, to an interactive website. The Rapid Response Team worked closely with Bixal's new brand designer, Karen Roberson, to update the brand guide, add more guidance around brand assets, and create shareable templates for others at Bixal to interact with the brand.
+Bixal's brand guide was transformed from a large PDF that was difficult to access and maintain, to an interactive website. The Rapid Response Team worked closely with Bixal's new brand designer to update the brand guide, add more guidance around brand assets, and create shareable templates for others at Bixal to interact with the brand.
 
 [View the Brand Guide](https://bixal.github.io/brand-guide/){: .usa-button}
 
@@ -25,7 +25,7 @@ It's difficult to communicate, use, and maintain our brand because the elements 
 - There is no clear way for people to ask questions or give feedback on brand elements and usage.
 - There is not enough information about how to use brand elements in ways that follow accessibility guidelines.
 
-### Audiences and use cases to consider:
+### Audiences and use cases:
 
 - Designers who are working on the brand itself (maintaining source files, creating templates, updating guidance, etc.)
 - Designers who are working with the brand, working with internal stakeholders to create unique expressions of the brand for various marketing and communications purposes.
@@ -49,9 +49,9 @@ All of the sections were created with updated guidance and information, as well 
 
 The PDF version of the brand had some outdated and sometimes confusing information. To remedy this, the team created new assets and content that better supports the brand.
 
-New guidance showing how to use the colors in ways that align with accessibility best practices was added in. It included a visual of color combinations for normal text and for bold text, as well as a section showing what colors to _never_ use together.
+- New guidance showing how to use the colors in ways that align with accessibility best practices was added in.
 
-New guidance on how to use Bixal's 'B' monogram was created as a template for social posts. The template was made in Figma and includes a bleed guide with instructions, examples of various social posts, and downloadable frames that people can edit and post.
+- New guidance on how to use Bixal's 'B' monogram was created as a [template for social posts](https://www.figma.com/file/uSdGkDjy2OVLxlhp1NVzM4/Social-Media-Template?node-id=54%3A190). The template was made in Figma and includes a bleed guide with instructions, examples of various social posts, and downloadable frames that people can edit and post.
 
 A Bixal branded presentation came highly suggested from others at Bixal. So our guide includes presentation templates in both Powerpoint and Keynote.
 
