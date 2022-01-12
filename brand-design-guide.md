@@ -49,13 +49,13 @@ All of the sections were created with updated guidance and information, as well 
 
 The PDF version of the brand had some outdated and sometimes confusing information. To remedy this, the team created new assets and content that better supports the brand.
 
-- New guidance showing how to use the colors in ways that align with accessibility best practices was added in.
+- New guidance showing [how to use the colors](https://bixal.github.io/brand-guide/color/) in ways that align with accessibility best practices was added in.
 
 - New guidance on how to use Bixal's 'B' monogram was created as a [template for social posts](https://www.figma.com/file/uSdGkDjy2OVLxlhp1NVzM4/Social-Media-Template?node-id=54%3A190). The template was made in Figma and includes a bleed guide with instructions, examples of various social posts, and downloadable frames that people can edit and post.
 
-A Bixal branded presentation came highly suggested from others at Bixal. So our guide includes presentation templates in both Powerpoint and Keynote.
+- A [Bixal branded presentation](https://bixal365.sharepoint.com/:p:/g/EfPTLplrHSZAp8hMvkvS-y4BqfSoUka2Ro9kNV_vMXn_XA) came highly suggested from others at Bixal. So our guide includes presentation templates in both Powerpoint and [Keynote](https://bixal365.sharepoint.com/Shared%20Documents/2020%20Rebrand%20Templates/Presentation%20Templates/Bixal_Keynote_Template_2021.key).
 
-Lastly, an Adobe asset library was created. Now, any Bixalers who work in the Adobe Creative Suite can have access to the various brand assets within whatever programs they use.
+- An [Adobe asset library](https://assets.adobe.com/public/0b60fc60-a474-4b51-40e8-1d5e1b0af038) was created. Now, any Bixalers who work in the Adobe Creative Suite can have access to the various brand assets within whatever programs they use.
 
 ## Results
 
