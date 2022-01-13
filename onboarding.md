@@ -31,7 +31,7 @@ An interactive onboarding experience for new hires created in Miro. The onboardi
 
 ## Results
 
-[View the onboarding experience](){: .usa-button}.
+[View the onboarding experience](){: .usa-button}
 
 We are continuing to iterate on this experience as we receive feedback from each new hire that moves through the Miro board. The feedback has been extremely valuable so far and we're excited to continuously improve on the experience. We will continue to update the Miro board linked above.
 
