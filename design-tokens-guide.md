@@ -43,6 +43,8 @@ The guide was split up into three main sections. The idea is to learn one sectio
 - **Use the tools:**
   - In the last section we encourage readers to put their knowledge to test. We offer interactive templates so that designers can see how tokens transform their designs. It includes USWDS in Figma, Color Token Template in Figma, USWDS Boilerplate in CodePen, and guidance on how to use the tokens plugin in Figma.
 
+The guide was presented to the design team during a design sync. We used the CodPen template as an interactive, workshop part of our presentation so designers were able to interact with the site, the tokens and show us their work. Overall, it was well received by the team and has become especially useful for our UI Designers.
+
 Let us know what you think by [creating a new issue](https://github.com/Bixal/uswds-design-tokens-guide/issues/new) or [contributing to a discussion](https://github.com/Bixal/uswds-design-tokens-guide/discussions).
 
 ## Tools
