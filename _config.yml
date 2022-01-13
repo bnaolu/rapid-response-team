@@ -7,7 +7,7 @@ description: "An exploration of the Rapid Response team's work and projects."
 
 # Enable for live hosting on GitHub Pages
 # This should match the name of your GitHub repository, along with a leading forward slash (/).
-baseurl: /rapid-response-team
+baseurl: /rapid-response-team-case-studies
 
 ### RECOMMENDED SETTINGS ###
 
