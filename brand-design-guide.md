@@ -59,7 +59,7 @@ The PDF version of the brand had some outdated and sometimes confusing informati
 
 ## Results
 
-[View the new brand guide](https://bixal.github.io/brand-guide/){: .usa-button}.
+[View the new brand guide](https://bixal.github.io/brand-guide/){: .usa-button}
 
 If you have any questions or feedback, feel free to [contribute to the discussion](https://github.com/Bixal/brand-guide/issues) in Github by creating a new issue.
 
