@@ -11,7 +11,7 @@ permalink: /case-studies/uswds-design-tokens-guide/
 
 The purpose of this project is to provide lessons learned and guidance on how designers can progressively understand and apply the use of design tokens in their work — ultimately increasing adoption of the U.S. Web Design System (USWDS) among digital services teams working on government websites.
 
-To inform the content in the guide, we interviewed 2 UX Designers and 2 UI Designers to gauge their understanding and experience with USWDS design tokens.
+To inform the content in the guide, we interviewed 2 UX Designers and 2 UI Designers to gauge their understanding and experience with USWDS design tokens. We discovered that all the designers are aware of tokens, but not all of them understand how to incorporate tokens into their work. Our guide aimed to address all designers that fall along the spectrum of design token newbie to token master.
 
 ## Problem
 
@@ -51,4 +51,6 @@ This project was created using Github, Jekyll, HTML, markdown and the United Sta
 
 ## Reflection
 
-I thought I new about design tokens until I sat down to try to write a guide about to how to use them. The best way to truly learn a concept is to teach it.
+The best way to truly learn a concept is to teach it.
+
+Creating and presenting this guide helped build our understanding of design tokens and our reputation on the design team as 'USWDS experts.'
