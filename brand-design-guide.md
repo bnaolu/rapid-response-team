@@ -69,7 +69,7 @@ This site is currently hosted on Github. We used Jekyll, HTML, the United States
 
 ## Reflection
 
-This project focused more on customizing the HTML and a little less of a focus on the use of markdown, although it was still somewhat utilized. It challenged us to use creative solutions in code to get the look we were going for, without straying from USWDS and accessibility best practices.
+This project focused more on customizing the HTML and a little less of a focus on the use of Markdown, although it was still somewhat utilized. It challenged us to use creative solutions in code to get the look we were going for, without straying from USWDS and accessibility best practices.
 
 This project also heavily involved a brand designer. Adding this new teammate meant that we had to balance another vision for the project which led to more creative problem-solving, more collaboration, and more transparency about what is possible in code to achieve the appearance that our brand designer had in mind. We started to get used to working in our bubble where we all had a mutual understanding of the UX process and UI. Adding someone to the team who was less familiar with those concepts allowed us the opportunity to teach each other along the way and gain new perspectives.
 
