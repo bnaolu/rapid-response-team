@@ -45,6 +45,6 @@ The screener template contains the following features:
 
 Once this cycle project came to an "end", we shared this template with HHS representatives and a concern came up around the relationship of rapid prototyping and the reality of dealing with business and development constraints: **"when prototyping something, without knowing if you can deliver it in a certain time, it might lead to empty promises if you don't have the right tech and tools"**.
 
-To answer this concern, it really isn't about the right tech or tools. It's about the technique. What we're trying to do is look at this in **a way to improve collaboration between design and implementation**. Working through iterations are few and far between, it's all one big iteration and then MAYBE you go back and do iterations on it. By prototyping fast and early, it can help test things before it goes into development. 
+To answer this concern, it really isn't about the right tech or tools. It's about the technique. What we're trying to do is look at this in **a way to improve collaboration between design and implementation**. Working through iterations are usually few and far between; it's all one big iteration and then MAYBE you go back and do iterations on it. By prototyping fast and early, it can help test things before it goes into development. 
 
-So when it's possible and when it makes sense, it's important to remember that you can start applying these techniques now with the tech and tools available to you. 
+So when it's possible and when it makes sense, it's important to remember that you can start applying rapid prototyping techniques with whatever tools you have on hand.
