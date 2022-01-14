@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Medical supply catalog
-subnav: Medical supply catalog
+title: Medical Supply Catalog
+subnav: Medical Supply Catalog
 permalink: /case-studies/medical-supply-catalog/
 ---
 
