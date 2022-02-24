@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# {{ site.title }}
+# The Rapid Response Portfolio
 
 {{ site.description }}
 {: .usa-intro}
